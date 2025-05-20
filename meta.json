@@ -1,0 +1,12 @@
+{
+    "name": "Tag Analytics",
+    "mod": 0, 
+    "reqVer": 2.1, 
+    "config": {"interval": 10, "style": "inverted", "level": "card", "debug_logging": true, "styled_count": 0, "last_styled_note_id": null, "debug": true}, 
+    "disabled": false,
+    "conflicts": [], 
+    "max_point_version": 0, 
+    "min_point_version": 0, 
+    "branch_index": 0, 
+    "update_enabled": true
+}
